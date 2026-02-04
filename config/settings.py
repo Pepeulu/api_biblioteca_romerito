@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/6.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-xh+81al)2&)g#^r*_nmii)vm4$-a%$^6hnvhbz@&_hz_0s^xbv'
+SECRET_KEY = 'romerito-chan'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -141,5 +141,5 @@ REST_FRAMEWORK = {
         'rest_framework.filters.OrderingFilter',
     ],
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
-    'PAGE_SIZE': 10,
+    'PAGE_SIZE': 12,
 }
