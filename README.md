@@ -1,13 +1,6 @@
-# Biblioteca Romerito - Backend
 
 ## Instalacao
 
-Crie ambiente virtual:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
 
 Instale as dependencias:
 
