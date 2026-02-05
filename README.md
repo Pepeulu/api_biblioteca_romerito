@@ -8,9 +8,10 @@ Instale as dependencias:
 pip install -r requirements.txt
 ```
 
-Execute migracao:
+Execute migração:
 
 ```bash
+python manage.py makemigrations
 python manage.py migrate
 ```
 
