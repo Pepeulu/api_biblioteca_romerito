@@ -1,6 +1,4 @@
 venv/
 midia/
-livros/migrations/
-autor/migrations/
 __pycache__/
-./db.sqlite3/
+db.sqlite3
