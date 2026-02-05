@@ -22,3 +22,8 @@ python manage.py runserver
 ```
 
 Acesse em http://localhost:8000/api/livros/
+
+
+Link do Artigo Científico do projeto:
+
+[Artigo Científico](https://docs.google.com/document/d/172OynZSefWxoN1fvogjLe7mPf9P1j44ohYGnBymhhSE/edit?usp=sharing)
