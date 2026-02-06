@@ -1,27 +1,24 @@
 
-## Instalacao
-
-
-Instale as dependencias:
+## 1. Instalação das dependências
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Execute migração:
+2. Execute migração:
 
 ```bash
 python manage.py makemigrations
 python manage.py migrate
 ```
 
-Inicie o servidor:
+3. Inicie o servidor:
 
 ```bash
 python manage.py runserver
 ```
 
-Acesse em http://localhost:8000/api/livros/
+4. Acesse em http://localhost:8000/api/livros/
 
 
 Link do Artigo Científico do projeto:
